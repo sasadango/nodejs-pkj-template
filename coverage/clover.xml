@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1571984882576" clover="3.2.0">
+  <project timestamp="1571984882577" name="All files">
+    <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4" elements="8" coveredelements="8" complexity="0" loc="4" ncloc="4" packages="1" files="4" classes="4"/>
+    <file name="add.js" path="/var/www/html/nodejs-package-manager/src/add.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+    <file name="div.js" path="/var/www/html/nodejs-package-manager/src/div.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+    <file name="mul.js" path="/var/www/html/nodejs-package-manager/src/mul.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+    <file name="sub.js" path="/var/www/html/nodejs-package-manager/src/sub.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
